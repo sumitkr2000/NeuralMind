@@ -148,6 +148,11 @@ a {
   border-radius: 10px !important;
 }
 
+/* button */
+.rsc-submit-button {
+  fill: #0d6efd !important;
+}
+
 /* admin section */
 .admin nav {
   max-height: 100vh;
