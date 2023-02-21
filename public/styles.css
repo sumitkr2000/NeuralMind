@@ -183,10 +183,11 @@ a {
 
 @media (max-width: 580px) {
   .train-left {
-    width: 100%;
+    display: none;
   }
   .train-right {
-    display: none;
+    width: 100%;
+    padding: 30px;
   }
 }
 
