@@ -126,22 +126,26 @@ a {
 }
 
 /* text area */
-.bMdLdG {
-  margin-bottom: 100px !important;
-}
-
-.fmkejr {
-  border-radius: 100px !important;
-}
-
-.rsc-ts-bubble {
+.esVEgI {
   background-color: #fff !important;
   color: black !important;
+}
+
+.jdjjvx {
+  background-color: #0a58ca !important;
+  color: #fff !important;
 }
 
 .sc-jSUZER {
   display: flex !important;
   flex-direction: row-reverse !important;
+}
+
+.rsc-os-option-element {
+  background-color: #fff !important;
+  border: 1px solid #0a58ca !important;
+  color: #0a58ca !important;
+  border-radius: 10px !important;
 }
 
 /* admin section */
