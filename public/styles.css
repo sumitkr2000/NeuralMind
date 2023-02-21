@@ -102,7 +102,7 @@ a {
 }
 
 /* chatbot styling */
-.kIuOcQ {
+.rsc-container {
   box-shadow: none !important;
   width: calc(100vw - 280px) !important;
   height: 95vh !important;
@@ -110,12 +110,12 @@ a {
 }
 
 /* top */
-.fVSrDx {
+.rsc-header {
   display: none !important;
 }
 
 /* main body */
-.fukLUR {
+.rsc-content {
   height: 85vh !important;
   background: rgb(254, 254, 254);
   background: linear-gradient(
@@ -126,17 +126,17 @@ a {
 }
 
 /* text area */
-.esVEgI {
+.hQsUiY {
   background-color: #fff !important;
   color: black !important;
 }
 
-.jdjjvx {
+.iOCYje {
   background-color: #0a58ca !important;
   color: #fff !important;
 }
 
-.sc-jSUZER {
+.rsc-os {
   display: flex !important;
   flex-direction: row-reverse !important;
 }
@@ -202,7 +202,10 @@ a {
     height: 100vh;
     text-align: center;
   }
-  .kIuOcQ {
+  .rsc-container {
     width: calc(100vw - 150px) !important;
+  }
+  .rsc-ts-bubble {
+    max-width: 65% !important;
   }
 }
